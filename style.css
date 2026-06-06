@@ -1,0 +1,30 @@
+button{
+    position: relative;
+    width: 100px;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    background-color: black;
+    border-radius: 50px;
+    border: 4px solid rgb(104, 104, 104);
+    padding: 4px;
+    margin: 5px;
+    cursor: pointer;
+}
+input{
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    background-color: black;
+    border-radius: 50px;
+    border: 2px solid rgb(104, 104, 104);
+    padding: 3px;
+}
+body{
+    background-color: rgb(24, 24, 24);
+    color: rgb(255, 255, 255);
+}
+h1{
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
